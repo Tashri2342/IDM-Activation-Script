@@ -115,7 +115,6 @@ _________________________________
 ##   IDM Activation Script
  
  
-###   Telegram:   https://t.me/ModByPiash
+###   Telegram:   https://t.me/Durlabh_Kshyap
 
-  Forum:   https://www.nsaneforums.com/topic/371047--/?do=findComment^&comment=1578647
 ____________________________________________________________________________________________________
