@@ -184,8 +184,8 @@ set _col=%_Yellow%
 call :_color2 %_White% "        " %_Green% "  Create By Piash"
 echo:          _____________________________________________   
 echo: 
-echo:          Telegram: @ModByPiash
-echo:          Github: https://github.com/lstprjct
+echo:          Telegram: @Durlabh_Kshyap
+echo:          Github: https://github.com/Tashri2342
 echo:          _____________________________________________   
 echo:                                                          
 echo:          [1] Activate IDM                                
@@ -377,7 +377,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://github.com/lstprjct/IDM-Activation-Script
+start https://github.com/Tashri2342/IDM-Activation-Script
 goto MainMenu
 
 ::========================================================================================================================================
@@ -875,9 +875,9 @@ _________________________________
 
    IDM Activation Script
    
-   Homepage:	https://github.com/lstprjct/IDM-Activation-Script
+   Homepage:	https://github.com/Tashri2342/IDM-Activation-Script
    
-   Telegram:	https://t.me/ModByPiash
+   Telegram:	https://t.me/Durlabh_Kshyap
 
 __________________________________________________________________________________________________
 :txt:
