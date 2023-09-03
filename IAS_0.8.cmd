@@ -181,10 +181,10 @@ set _status=Status_Unclear
 set _col=%_Yellow%
 )
 
-call :_color2 %_White% "        " %_Green% "  Create By Piash"
+call :_color2 %_White% "        " %_Green% "  Create By Tashri (Radhe Radhe)"
 echo:          _____________________________________________   
 echo: 
-echo:          Telegram: @Durlabh_Kshyap
+echo:          Telegram: @Tashri2342
 echo:          Github: https://github.com/Tashri2342
 echo:          _____________________________________________   
 echo:                                                          
